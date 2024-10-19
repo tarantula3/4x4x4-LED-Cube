@@ -1,4 +1,6 @@
 /*
+  Code downloaded from: https://github.com/tarantula3/4x4x4-LED-Cube/
+  YouTube Channel: https://www.youtube.com/user/tarantula3
   4x4x4 LED Cube
   Connection Setup: 
   Columns
